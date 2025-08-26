@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "payflexpaymentsystem.client", "payflexpaymentsystem.client\payflexpaymentsystem.client.esproj", "{3021803E-E93C-9B9F-0338-167DD1638430}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayFlexPaymentSystem.Server", "PayFlexPaymentSystem.Server\PayFlexPaymentSystem.Server.csproj", "{C1577FC4-49AA-4D6A-A90C-94F1A68AFA76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3021803E-E93C-9B9F-0338-167DD1638430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3021803E-E93C-9B9F-0338-167DD1638430}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3021803E-E93C-9B9F-0338-167DD1638430}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3021803E-E93C-9B9F-0338-167DD1638430}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3021803E-E93C-9B9F-0338-167DD1638430}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3021803E-E93C-9B9F-0338-167DD1638430}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{C1577FC4-49AA-4D6A-A90C-94F1A68AFA76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1577FC4-49AA-4D6A-A90C-94F1A68AFA76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1577FC4-49AA-4D6A-A90C-94F1A68AFA76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1577FC4-49AA-4D6A-A90C-94F1A68AFA76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CE218F0-57AB-4A36-8FCD-8D6840DDD265}
+	EndGlobalSection
+EndGlobal
